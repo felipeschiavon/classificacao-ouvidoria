@@ -1,0 +1,13 @@
+bs4
+numpy
+pandas
+re
+seaborn
+matplotlib
+plotly
+nltk
+unidecode
+wordcloud
+pillow
+fasttext
+scikit-learn
